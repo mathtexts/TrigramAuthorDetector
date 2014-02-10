@@ -3,7 +3,7 @@ Author-Detection-Trigram
 
 Authorship detection by Alexandr Zhelubenkov, supervised by Dr Mstislav Maslennikov
 
-Nickname: anAuthor 13c
+Nickname: AnAuthor 13c
 
 This is a project for the "Mathematical methods for text analysis" course in spring 2013 in MSU. 
 
