@@ -1,4 +1,18 @@
+Author-Detection-Trigram
+========================
 
+Authorship detection by Alexandr Zhelubenkov, supervised by Dr Mstislav Maslennikov
+
+Nickname: anAuthor 13c
+
+This is a project for the "Mathematical methods for text analysis" course in spring 2013 in MSU. 
+
+Kindly refer to 
+- Report.pdf
+- vk.com/mathtexts -> achievements of listeners (http://vk.com/topic-50553132_28815796)
+
+Compulsory citation:
+Alexandr Zhelubenkov and Mstislav Maslennikov, 2013. "Author detection using Support Vector Machines". In "Mathematical methods for text analysis" speckours, vk.com/mathtexts.
 
 
 Instructions
